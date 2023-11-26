@@ -1,0 +1,1 @@
+--Possibly extract what we need from Adventure Works db, and created a lightweight SQLite version, that way we can disaply the website on the portfolio.
